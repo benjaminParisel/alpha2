@@ -8,7 +8,7 @@
           <dynamicDescription xmi:type="expression:Expression" xmi:id="_2Q-ZRcVvEeikovMM2WImEw" name="" content="" returnTypeFixed="true"/>
           <stepSummary xmi:type="expression:Expression" xmi:id="_2Q-ZRsVvEeikovMM2WImEw" name="" content="" returnTypeFixed="true"/>
         </elements>
-        <elements xmi:type="process:Task" xmi:id="_2Q-ZR8VvEeikovMM2WImEw" name="Étape1" incoming="_2Q_AXMVvEeikovMM2WImEw" overrideActorsOfTheLane="false">
+        <elements xmi:type="process:Task" xmi:id="_2Q-ZR8VvEeikovMM2WImEw" name="MaPremieretape" incoming="_2Q_AXMVvEeikovMM2WImEw" overrideActorsOfTheLane="false">
           <dynamicLabel xmi:type="expression:Expression" xmi:id="_2Q-ZSMVvEeikovMM2WImEw" name="" content="" returnTypeFixed="true"/>
           <dynamicDescription xmi:type="expression:Expression" xmi:id="_2Q-ZScVvEeikovMM2WImEw" name="" content="" returnTypeFixed="true"/>
           <stepSummary xmi:type="expression:Expression" xmi:id="_2Q-ZSsVvEeikovMM2WImEw" name="" content="" returnTypeFixed="true"/>
